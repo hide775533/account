@@ -1,0 +1,45 @@
+.notDisplay {
+    display: none;
+}
+
+.number {
+    text-align: right;
+}
+
+
+table {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border-left: 1px solid #ccc;
+}
+
+table thead th, table tfoot {
+    padding: 5px;
+    font-weight: bold;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    background: #dcdcd1;
+}
+table thead th {
+    border-bottom: 2px solid #000;
+}
+table tfoot {
+    border-top: 2px solid #000;
+}
+
+
+table tbody th {
+    padding: 5px;
+    font-weight: bold;
+    vertical-align: top;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #ececec;
+}
+table td {
+    padding: 5px;
+    vertical-align: top;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
