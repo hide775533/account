@@ -86,7 +86,6 @@ echo "、出力タイプ：<span id='searchValAggregateType'>".$aggregateType."<
             <th>備考</th>
         </tr>
     </thead>
-
 <?php
 
 //データの取得
